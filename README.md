@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Apple/Google
-- 📫 How to reach me https://t.me/jamshid_abdumutov
+- 📫 How to reach me https://t.me/jamshidbek_abdumutalov
 
 <!---
 jamshidbeek/jamshidbeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
